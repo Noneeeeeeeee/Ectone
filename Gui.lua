@@ -2,7 +2,7 @@ local Release = "Beta 8"
 local NotificationDuration = 6.5
 local EctoneFolder = "Ectone"
 local ConfigurationFolder = EctoneFolder.."/Configurations"
-local ConfigurationExtension = ".rfld"
+local ConfigurationExtension = ".ectone"
 
 
 
