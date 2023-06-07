@@ -1,4 +1,3 @@
-
 local pencils = {
     "Cock",
     "lag.exe",
